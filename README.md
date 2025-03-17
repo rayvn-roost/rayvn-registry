@@ -1,2 +1,2 @@
 # registry
-rayvn global rregistry
+rayvn global registry

@@ -1,2 +1,2 @@
 # registry
-rayvn global registry
+A global registry for rayvn projects.

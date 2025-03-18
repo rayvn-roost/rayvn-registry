@@ -1,0 +1,5 @@
+project.name = sage
+project.repo = phoggy/sage
+
+admin.name = rayvn-admin
+admin.email = rayvn-admin@rayvn.ink

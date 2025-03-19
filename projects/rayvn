@@ -1,0 +1,5 @@
+project.name = rayvn
+project.repo = phoggy/rayvn
+
+admin.name = rayvn-admin
+admin.email = rayvn-admin@rayvn.ink
